@@ -1,4 +1,4 @@
-# PyML - Complete Machine Learning Project
+<img width="1665" height="810" alt="image" src="https://github.com/user-attachments/assets/a0a30f41-1ed6-46d9-a079-b7eab98deb7a" /># PyML - Complete Machine Learning Project
 
 A comprehensive machine learning project demonstrating the full ML pipeline from data preprocessing to model deployment and interactive visualization.
 
@@ -40,7 +40,7 @@ pyml/
 <img width="1665" height="810" alt="image" src="https://github.com/user-attachments/assets/f1c5925a-8977-4c02-8da0-99cc1942cb37" />
 
 -----------------------------------------------------------------------------------------------------------------------------
-<img width="1665" height="810" alt="image" src="https://github.com/user-attachments/assets/dc805e10-c3f3-4f91-af42-6997ef10366d" />
+<img  src = "https://see.fontimg.com/api/rf5/zr5Ll/ZjkwYTk3ZmI2MzRkNDA5NjllOThmNDc1YWU3NzEyZjQudHRm/V0FLQVRJTUU/pixelbasel.png?r=fs&h=81&w=1250&fg=000000&bg=FFFFFF&tb=1&s=65"/>
 
 
 
