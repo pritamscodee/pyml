@@ -120,6 +120,52 @@ streamlit run app.py
 - Feature importance analysis
 - Residual analysis
 
+
+
+
+
+
+###pipeline
+
+
+Got it — you want a **clean vertical arrow style**:
+
+---
+
+# 🧠 Boston Housing ML Project
+
+## 📌 Steps
+
+Data Collection
+↓
+Data Understanding
+↓
+Data Cleaning
+↓
+Exploratory Data Analysis (EDA)
+↓
+Feature Selection
+↓
+Train-Test Split
+↓
+Baseline Model (Linear Regression)
+↓
+Feature Engineering
+↓
+Improved Model (Random Forest)
+↓
+Model Comparison
+↓
+Feature Importance Analysis
+↓
+Model Saving
+↓
+Streamlit Dashboard (Optional Deployment)
+↓
+GitHub Documentation
+
+---
+
 ### 3. Feature Engineering & Model Comparison (`03_feature_engineering_model_comparison.ipynb`)
 
 **Advanced Feature Engineering:**
