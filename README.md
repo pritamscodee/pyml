@@ -132,8 +132,7 @@ Got it — you want a **clean vertical arrow style**:
 
 ---
 
-# 🧠 Boston Housing ML Project
-Here it is **horizontally (clean arrow flow for README)**:
+
 
 ---
 
